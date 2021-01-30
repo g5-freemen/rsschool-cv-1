@@ -23,9 +23,9 @@ function fib(n) {
 console.log(fib(3);
 ```
 ## Education
-University: GSU Francisk Skorina (law),
-Courses: TeachMeSkills (Front-end developer)
+>University: GSU Francisk Skorina (law),
+>Courses: TeachMeSkills (Front-end developer)
 
 ## Online learning
-freeCodeCamp
-Codewars
+* freeCodeCamp
+* Codewars
